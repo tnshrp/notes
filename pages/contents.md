@@ -1,2 +1,3 @@
-## New test page
+## [[New test page]]
+##
 ##
