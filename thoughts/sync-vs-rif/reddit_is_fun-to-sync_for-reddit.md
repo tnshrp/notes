@@ -5,9 +5,11 @@
 # Why I switched from "Reddit is fun" to "Sync for Reddit" and what I learned from the switch
 
 ## Blog-post
+   :PROPERTIES:
+   :CUSTOM_ID: 5f57838e-fa28-4209-aa65-bded5b426c22
+   :END:
 
 If I come across an app that attempts to solve a problem I care for, my first instinct is to skim through the list of screenshots, its feature-list and give it a spin without spending too much time on it. This is regardless of the fact that I may already have an app for the same job. My hope is to discover a significantly better way to do the same thing or discover an unserved need I didn't know existed. For example, I've lost the count of the number of apps I've tried so far, looking for that perfect Evernote alternative. That search is still on.
-
 ### The Switch
 
 On one such occasion, I came across [Sync for Reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync&hl=en) (we'll shorten it to "Sync") which is one of the many mobile apps for accessing Reddit, a social content-sharing/opinions site. I was using [Reddit is Fun](https://play.google.com/store/apps/details?id=com.andrewshu.android.redditdonation) (let's call it RIF) until then. One look, and I was instantly prepared to switch to Sync for Reddit. Accessing comments on a Reddit thread 'felt' easier because it look a tap less and one had more real estate to tap on. 
