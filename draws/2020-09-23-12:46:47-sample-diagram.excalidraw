@@ -1,0 +1,106 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://logseq.com",
+  "elements": [
+    {
+      "id": "NHtMFQRZ2UlEGW13wUU9u",
+      "type": "rectangle",
+      "x": 306.82421875,
+      "y": 242.390625,
+      "width": 101.30078125,
+      "height": 87.65625,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "seed": 590569247,
+      "version": 34,
+      "versionNonce": 552220319,
+      "isDeleted": false
+    },
+    {
+      "id": "4Njthj3aLR6OaMjuMMN8p",
+      "type": "arrow",
+      "x": 651.3125,
+      "y": 284.87890625,
+      "width": 136.32403696291146,
+      "height": 0.3953570496290695,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "seed": 34227519,
+      "version": 179,
+      "versionNonce": 1975752831,
+      "isDeleted": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          136.32403696291146,
+          -0.3953570496290695
+        ]
+      ],
+      "lastCommittedPoint": null
+    },
+    {
+      "id": "FiVNFvDYLZ5qCdZfVKoNz",
+      "type": "diamond",
+      "x": 499.05859375,
+      "y": 207.05078125,
+      "width": 151.56640625,
+      "height": 155.59375,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "seed": 948731135,
+      "version": 84,
+      "versionNonce": 1959267007,
+      "isDeleted": false
+    },
+    {
+      "id": "dEJTa7Zr_1mpk16Lup37A",
+      "type": "ellipse",
+      "x": 788.16015625,
+      "y": 254.84765625,
+      "width": 64.953125,
+      "height": 59.15625,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "seed": 148227775,
+      "version": 143,
+      "versionNonce": 1677043633,
+      "isDeleted": false
+    }
+  ],
+  "appState": {
+    "viewBackgroundColor": "#FFF",
+    "gridSize": null
+  }
+}
